@@ -279,7 +279,8 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-![392890033-b101886a-0b84-4595-89fc-dc59da1afcc2](https://github.com/user-attachments/assets/cb0c0da7-f46e-4bf5-bb1b-d8a07310d97a)
+![image](https://github.com/user-attachments/assets/67a79da0-ff58-42d4-9751-43d35e359b46)
+
 ![392890086-802e133e-24bc-4f30-93de-f67f2e0798bd](https://github.com/user-attachments/assets/8c0cc461-0764-4645-aa07-1d182eab28ad)
 ![392890121-74f4bb3f-fc21-46fc-a188-44d9fd87567a](https://github.com/user-attachments/assets/9a45614a-c84b-4feb-931f-ce9dd6b77183)
 ![392890188-cbd42d67-0458-4dcf-a616-56f74a170d6e](https://github.com/user-attachments/assets/6b0ee3cb-39d1-4de2-939f-103c9938c5ce)
