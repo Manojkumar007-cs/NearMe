@@ -40,7 +40,7 @@ Execute the programs and publish them.
         <font color="red"><b>MY VILLAGE</b></font>
     </h1>
     <h1 align="center">
-        <font color="blue"><b>Manojkumar k (24900281)</b></font>
+        <font color="blue"><b>Purusothaman K (24901211)</b></font>
     </h1>
     <CENTER>
 
